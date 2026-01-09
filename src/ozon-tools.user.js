@@ -4,7 +4,7 @@
 // @version      4.0
 // @description  Виджет для формирования листа подбора и скачивания этикеток на seller.ozon.ru
 // @author       Auto-generated
-// @match        https://seller.ozon.ru/*
+// @match        https://seller.ozon.ru/app/postings/fbs*
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
